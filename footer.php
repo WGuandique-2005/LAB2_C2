@@ -9,7 +9,7 @@
 
 </head>
 <footer>
-<p>Examen Parcial - Computo I</p>
+<p>Laboratorio I - Computo II</p>
 <p>Programación Computacional IV</p>
 </footer>
 
