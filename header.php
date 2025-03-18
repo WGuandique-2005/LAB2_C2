@@ -11,9 +11,9 @@
 
 <body>
 <nav class="navbar">
-        <div class="logo">LESSA</div>
+        <div class="logo"><a href="index.php">Registro de empleados</a></div>
         <ul class="nav-links">
-            <li><a href="#">William Guandique - SMSS076423</a></li>
+            <li><a href="">William Guandique - SMSS076423</a></li>
             <li><a href="#">Briseily Solórzano - SMSS030723</a></li>
             <li><a href="#">Ingenieria en Sistemas y Redes Informaticas</a></li>
         </ul>
